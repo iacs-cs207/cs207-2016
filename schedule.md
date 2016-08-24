@@ -1,3 +1,8 @@
+---
+title: Schedule
+layout: default
+---
+
 | Week | Date (Mon) | Lecture1_on_Monday                       | L2_on_Wednesday                          | Lab_on_Friday                            | HW_Information                           | Project_Information                      |
 | ---- | ---------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | W1   | Aug 29     | HOLIDAY(School unstarted)                | Overview, TS                             | Shell+Git                                | Shell DB                                 | Form Groups                              |
