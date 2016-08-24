@@ -3,7 +3,6 @@ title: Coursework and grading
 layout: default
 ---
 
-Project Milestone 1 details are [here](project.html).
 
 ## Working in groups
 
@@ -15,38 +14,40 @@ All github repos will be open. You may look at others labs after they are submit
 
 Your grade in this class is made up of the following components:
 
-- **Labs** (30%)
-    - Submission of all labs (15%): All 3 labs for a week must be submitted by 11.59pm of the Sunday of the week of the labs. The labs ought to be mostly complete if you come to the after lecture labs, needing very little work at home.
-    - Random and Non-Random Evaluations (15%): In most labs, we will ask you to submit an answer from the lab via a google form. This will be used in evaluation. Additionally, some labs will be randomly chosen to grade
+- **Homeworks** (40%)
+    - Submission of all homework (15%): All homework must be submitted. Just submitting will get you 15% of the grade, even if answers are wrong.
+    - Random and Non-Random Evaluations (25%): Homework (perhaps not all) will be evaluated. You may collaborate with other members of your team on the homework, once you have formed teams. But, you must write your own solutions.
+    - Solutions will be made available a week to two after submission
 
- - **Paper** (10%) At about the 4th or 5th week of the class, your group will be asked to choose an open source code base to review and like a paper about. For example, consider you choose sklearn's implementation of kNN. You will review the basic algorithms, implementing one of these in python. Then you will review the optimizations made by the project, whether these be pure C/C++ implementation, cython, or other. The idea is to understand and communicate (a) the algorithm (b) the optimization and why (c) how the optimization was implemented.
 
-- **Project** (50%). The project is to create a time-series analysis library and database with a REST API to it.
+- **Project** (43%). The project is to create a time-series analysis library and database with a REST API to it.
 
 The deliverables will be:
 
 - (a) code for library
 - (b) code for database
-- (c) a database with a REST API to analyze/add/etc time series in this database; with tests exercising this API
-- (d) a simple demo of these API endpoints from a web page
+- (c) a web server with a REST API to analyze/add/etc time series in this database; with tests exercising this API
+- (d) a web page which provides a user interface which utilizes the REST api
 - (e) documentation of the library and the API at a web site. These should be a combination of written and automatically generated documentation.
 
-A portion of this project is what we call "basic" and must be implemented by each group. Simpler versions of some of the code in this basic part will be played around with in the labs after class. The basic part is worth 30% and consists of **two milestones** at which you will be graded as a group. M1 will be graded in the spring break and is due the sunday night 11.59pm before that. M2 will be graded in the week of April 18th and once again is due on sunday night at 11.59pm on the sunday night before that week.
+A portion of this project is what we call "basic" and must be implemented by each group. Simpler versions of some of the code in this basic part will be played around with in the labs after class. The basic part is worth 20% and consists of **two milestones** at which you will be graded as a group. M1 will be graded in the spring break and is due the sunday night 11.59pm before that. M2 will be graded in the week of April 18th and once again is due on sunday night at 11.59pm on the sunday night before that week.
 
-Another portion of the project is what we call "additional" and consists of the additional features you add to the library or the database. These might be different distance algorithms (between time series), an tick-database extension to the search database, etc. Your imagination is the limit. Start thinking about this immediately after Milestone M1 and discuss with your TF. This part is worth 20%.
+Another portion of the project is what we call "additional" and consists of the additional features you add to the library or the database. These might be different distance algorithms (between time series), an tick-database extension to the search database, etc. Your imagination is the limit. Start thinking about this immediately after Milestone M1 and discuss with your TF. This part is worth 23%.
 
-- **Participation** (10%)
+- **Implement a project feature for another group** (10%)
 
- The final 10% of your grade comes from participation.
 
-The first part of participations comes from your presence in online discussions, individual commits, and via a within-group peer review. This is to ensure that certain team members dont slack off.
-
-The second is more complex.
-
- We will divide groups into "red" groups and "black" groups. (See Red-Black trees.). In the first milestone, a red group will contribute one feature (to be decided) to a black groups codebase. Similarly, a black group will contribute another feature to a red group's codebase. This contribution will be made via a github pull request. The contributee will conduct a **code review**, and request changes. Such discussion will take place via issues and pull requests on github. When satisfied, the contributor will merge the feature into their code base.
+ We will divide groups into "red" groups and "black" groups. (See Red-Black trees.). In the second milestone, a red group will contribute one feature (to be decided) to a black groups codebase. Similarly, a black group will contribute another feature to a red group's codebase. This contribution will be made via a github pull request. The contributee will conduct a **code review**, and request changes. Such discussion will take place via issues and pull requests on github. When satisfied, the contributor will merge the feature into their code base.
 
  The contributor group's contributions will be taken into account in their project grade (the basic part). The discussions and code review: the entire back and forth will contribute to both color's participation grade.
 
+- **Participation** (7%)
+
+ The final 7% of your grade comes from participation.
+
+Participation comes from your presence in online discussions, individual commits, and via a within-group peer review. This is to ensure that certain team members dont slack off.
+
+## An important note
 
 **Peer-review may be used at the end to adjust ENTIRE individual grades up or down.**
 
@@ -54,7 +55,7 @@ The second is more complex.
 
 The work for this course will be done on github.
 
-Each user must have a repo: cs207labs.
+Each user must have a repo: cs207work.
 
 Each group will have an organization, with its members and the teaching staff in it. The organization will be called "cs207_groupname", and the project repo will be called "project". The group is free to make other repos, etc for experiments, but "project" is the one we will grade.
 

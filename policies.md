@@ -7,7 +7,7 @@ layout: default
 
 **Prerequisites**
 
-Programming knowledge, **in Python** at the level of CS 109 (or above). Besides this, you should have interest or investment in scientific computing.
+Programming knowledge, **in Python** at the level of CS50 and CS 109 (or above). Besides this, you should have interest or investment in scientific computing.
 
 **Required Textbook**
 
@@ -15,25 +15,24 @@ see [Resources](resources.html) page.
 
 **Online Discussion Forum**
 
-We'll be using [Github](https://github.com/iacs-cs207/cs207/issues) as our online forum. Github issues is your main venue to ask questions, discuss problems, and help each other out. Additionally we'll use Gitter for real time conversation
-
+We'll be using [Piazza](https://piazza.com/class/irs0s2jc8sv1iz) as our online forum.
 
 **Office Hours**
 
-By appointment. Your lecturer and TFs will meet groups every week in Monday lab, and we encourage you to make additional appointments.
+For Rahul: By appointment, and 1pm-2pm every Wednesday.
 
 ## Course Components
 
 **Lectures and Labs**
 
-The class meets thrice a week for lectures and subsequent labs. The labs are designed to help you master the relevant materials, to work on your labs in groups, and to make progress on your project. The weekly schedule is posted on the course web site.
+The class meets twice a week for lectures (Monday And Wednesday) and Friday for  labs. The labs are designed to help you master the relevant materials, and to start work on your homework in groups, and to even make progress on your project. The weekly schedule is posted on the course web site.
 
-Monday's Lab is compulsory. The Wednesday and Friday lab are not. Work from each lab (if assigned) is due the next lab. If you come to lab Wednesday and Friday, we promise you will have finished most of the assignment work, with at most an hour of work left over. Mondays Lab is designed to help you on your project, and to host your group's standup meeting, so you must come to it.
+Lab is compulsory.
 
 
 **Project**
 
-You will work on a semester-long time series analysis and database project. The goal of the project is to go through the complete software engineering process. You will work closely with other classmates in a **4-5 person project team**. A portion of this project will be worked on in labs, and is common to all to all groups. But you will have to implement additional algorithms and database features of your choice (discussed with us) throughout and especially towards the end of the semester.
+You will work on a semester-long time series analysis, website, and database project. The goal of the project is to go through the complete software engineering process. You will work closely with other classmates in a **4-5 person project team**. A portion of this project will be specified, and is common to all to all groups. But you will have to implement additional algorithms and database features of your choice (discussed with us) throughout and especially towards the end of the semester.
 
 ## Course Policies
 
@@ -71,13 +70,13 @@ You must acknowledge any source code that was not written by you by mentioning t
 
 **Lab Deadlines and Late Days**
 
-Labs **must** be turned in on time, including the project-based labs. The project schedules is your group's to manage (keep on it!).
+Homework and Project **must** be turned in on time, including the project-based labs.
 
-Nada. No exceptions, except for illness, with a doctor's certificate.
+Eceptions: Nada. No exceptions, except for illness, with a doctor's certificate.
 
 **Regrading Policy**
 
-Some labs will be randomly graded. You will only no after the fact, which ones these were. If you think we were too harsh, please ask for a regrade within a day of getting your grade.
+Some homeworks will be randomly graded. You will only know after the fact, which ones these were. If you think we were too harsh, please ask for a regrade within a day of getting your grade.
 
 **Guest Lecture Attendance**
 

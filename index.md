@@ -5,34 +5,31 @@ layout: "default"
 
 ## Who?
 
-**Instructors:** Rahul Dave (IACS), Pavlos Protopapas (IACS)
+**Instructor:** Rahul Dave (IACS, mailto:rahuldave@gmail.com )
 
-**TFs:** Head TF: Robert Adolf, Chenhui Hu, ...
+**TFs:** Head TF: Michael Lackner, ...
 
-**Staff Email**: mailto:cs207staff@gmail.com
 
 ## When?
 
-Mondays 2.30pm - 5pm Lecture and Lab. (Both compulsory) Pierce 301
+Mondays 2.30pm - 4pm Lecture. Compulsory to attend. Pierce 209.
 
-Wednesdays 2.30pm - 4.30pm (Lecture Compulsory, lab highly recommended) Pierce 301
+Wednesdays 2.30pm - 4pm Lecture. Compulsory to attend. Pierce 209.
 
-Fridays 11am-1pm (Lecture Compulsory, lab highly recommended) Pierce 301
-
-Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs are highly recommended. The benefit is that with attendance you will at-most have 1/2 hour to 1 hour additional lab work at home.
+Fridays 3pm - 4.30pm Lab. Compulsory to attend. Pierce 301.
 
 ## Online?
 
-- web site at https://iacs-cs207.github.io/cs207/ (you are reading it)
-- github repo at https://github.com/iacs-cs207/cs207 (clone this fresh for each class or fork it and set this original up as a remote)
-- your own labs repo at `githubusername/cs207labs`
-- discussions at https://github.com/iacs-cs207/cs207/issues
+- web site at https://iacs-cs207.github.io/cs207-2016/ (you are reading it)
+- github repo at https://github.com/iacs-cs207/cs207-2016 (clone this fresh for each class or fork it and set this original up as a remote)
+- your own labs repo at `githubusername/cs207work`
+- discussions at https://piazza.com/class/irs0s2jc8sv1iz
 
 ## FAQ
 
 **How onerous is it?**
 
-Not very. If you attend the labs, you will have about 1-2.5 additional hours in the week needed to work on labs, and a further 6-8 hrs on the project (less in earlier weeks).
+Somewhat.
 
 **What is this class about?**
 
@@ -48,11 +45,13 @@ If you are a scientist, data, physical, or social, this course will will expose 
 
 If you are a computer scientist, this course will introduce you to good software engineering practice, especially in the context of scientific software development.
 
+You should take this class if you want to be a good programmer or programming-capable member of your "company"'s data science team. Seriously, if you are not, you will be at a disadvantage compared to others.
+
 **Expected Learning Outcomes**
 
 After successful completion of this course, you will be able to:
 
-* Use Python, including its advanced features, and C, to write performant scientific programs
+* Use Python, including its advanced features to write scientific programs
 
 * understand what features of Python (or for that matter any programming language) make up its language execution model and how these features impact the code you write: e.g. how modularity, abstraction, and encapsulation can be used to solve problems
 
@@ -67,8 +66,8 @@ After successful completion of this course, you will be able to:
 
 **Who should take this class?**
 
-The prerequisite for this class is programming knowledge, in Python, at the level of CS 109 (or above). Besides this, you should have interest or investment in scientific computing.
+The prerequisite for this class is programming knowledge, in Python, at the level of CS50 and CS 109 (or above). Besides this, you should have interest or investment in scientific computing.
 
 **What is the structure of the class?**
 
-There will be three modules running concurrently, each focusing on an important area. These modules are "System and Software Engineering" (SSE), Language(LANG), and Data Structures and Algorithms(DSA). You will form groups and work on a project to write a time series analysis library and a time series database through the semester. This effort will exercise all three modules. Additionally you will write a paper analyzing code from a popular open-source project which uses performance optimization techniques (e.g. sklearn)
+There will be three modules running concurrently, each focusing on an important area. These modules are "System and Software Engineering" (SSE), Language(LANG), and Data Structures and Algorithms(DSA). You will form groups and work on a project to write a time series analysis library and a time series website and database through the semester. This effort will exercise all three modules.
