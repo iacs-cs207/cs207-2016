@@ -20,7 +20,7 @@ Your grade in this class is made up of the following components:
     - Solutions will be made available a week to two after submission
 
 
-- **Project** (43%). The project is to create a time-series analysis library and database with a REST API to it.
+- **Project** (45%). The project is to create a time-series analysis library and database with a REST API to it.
 
 The deliverables will be:
 
@@ -30,18 +30,18 @@ The deliverables will be:
 - (d) a web page which provides a user interface which utilizes the REST api
 - (e) documentation of the library and the API at a web site. These should be a combination of written and automatically generated documentation.
 
-A portion of this project is what we call "basic" and must be implemented by each group. Simpler versions of some of the code in this basic part will be played around with in the labs after class. The basic part is worth 20% and consists of **two milestones** at which you will be graded as a group. M1 will be graded in the spring break and is due the sunday night 11.59pm before that. M2 will be graded in the week of April 18th and once again is due on sunday night at 11.59pm on the sunday night before that week.
+A portion of this project is what we call "basic" and must be implemented by each group. Simpler versions of some of the code in this basic part will be played around with in the labs after class. We'll add grade splits for milestones and post milestone work here soon (see below).
 
-Another portion of the project is what we call "additional" and consists of the additional features you add to the library or the database. These might be different distance algorithms (between time series), an tick-database extension to the search database, etc. Your imagination is the limit. Start thinking about this immediately after Milestone M1 and discuss with your TF. This part is worth 23%.
+Another portion of the project is what we call "additional" and consists of the additional features you add to the library or the database. These might be different distance algorithms (between time series), an tick-database extension to the search database, etc. Your imagination is the limit. Start thinking about this immediately after Milestone M1 and discuss with your TF. 
 
-- **Implement a project feature for another group** (10%)
+- **Implement a project feature for another group** (7%)
 
 
  We will divide groups into "red" groups and "black" groups. (See Red-Black trees.). In the second milestone, a red group will contribute one feature (to be decided) to a black groups codebase. Similarly, a black group will contribute another feature to a red group's codebase. This contribution will be made via a github pull request. The contributee will conduct a **code review**, and request changes. Such discussion will take place via issues and pull requests on github. When satisfied, the contributor will merge the feature into their code base.
 
  The contributor group's contributions will be taken into account in their project grade (the basic part). The discussions and code review: the entire back and forth will contribute to both color's participation grade.
 
-- **Participation** (7%)
+- **Participation** (8%)
 
  The final 7% of your grade comes from participation.
 
