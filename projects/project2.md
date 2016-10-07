@@ -4,8 +4,6 @@ layout: lecture
 mathjax: true
 ---
 
-# Project continued
-
 ## Part 1
 
 This question continues your implementation of the time series class you started last week. Then, you stored your time series as a python list.
