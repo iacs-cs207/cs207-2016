@@ -1,8 +1,18 @@
+---
+title: A time series class, continued
+layout: lecture
+mathjax: true
+---
+
 # Project continued
+
+## Part 1
 
 This question continues your implementation of the time series class you started last week. Then, you stored your time series as a python list.
 
 Add methods `__iter__` to your project Time Series class to iterate over values, a method `itertimes` to iterate over times, and a method `iteritems` to iterate over time-value pairs. (This is a similar interface to python dictionaries). To test these, check both the types of the results and the answers you expect.
+
+## Part 2
 
 Next, you will store the data as a numpy 1-D array.
 
@@ -14,4 +24,6 @@ Because your class inherits from your `TimeSeries` class, you'll notice you get 
 
 Make sure that any doctests and tests you wrote before to test all kinds of sequences as input still pass. (If you didnt write any, how do you know your time series Class from last time is any good? We'll be testing your code by running our own tests as well!)
 
-Next week we'll refactor these classes and add support for synthetic time series.
+---
+
+Next weeks we'll refactor these classes and add support for synthetic time series, and incoming data that is streaming!
