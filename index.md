@@ -7,7 +7,7 @@ layout: "default"
 
 **Instructor:** Rahul Dave (IACS, mailto:rahuldave@gmail.com )
 
-**TFs:** Head TF: Michael Lackner, ...
+**TFs:** Head TF: Michael Lackner, Fuk Yeung, Sarah Mohammed, Sonu Mehta
 
 
 ## When?
@@ -17,6 +17,14 @@ Mondays 2.30pm - 4pm Lecture. Compulsory to attend. Pierce 209.
 Wednesdays 2.30pm - 4pm Lecture. Compulsory to attend. Pierce 209.
 
 Fridays 3pm - 4.30pm Lab. Compulsory to attend. Pierce 301.
+
+## Office Hours
+
+- anytime by appointment with any of us.
+- Rahul: 1-2pm Wednesday, 11.45am-12.45pm Thu, B164
+- Michael: 1-2pm Tuesday, B158
+- Sonu and Sarah, alternate weeks, Tue 7-8pm, B164
+- Fuk, Thu 7-8pm, B164.
 
 ## Online?
 

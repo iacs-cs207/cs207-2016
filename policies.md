@@ -17,10 +17,6 @@ see [Resources](resources.html) page.
 
 We'll be using [Piazza](https://piazza.com/class/irs0s2jc8sv1iz) as our online forum.
 
-**Office Hours**
-
-For Rahul: By appointment, and 1pm-2pm every Wednesday.
-
 ## Course Components
 
 **Lectures and Labs**
