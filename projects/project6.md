@@ -10,12 +10,11 @@ The job of this part, project 6, is to construct a functional red-black tree dat
 
 For milestone 2, this database needs only to work as a library, which carries out its work in a manner to sqlite: multiple processes may access the database at the same time. Remember that you are basing this off lab10, where simultaneous reads are allowed, but simultaneous writes are not.
 
-My suggestion is to first implement the database as an unbalanced binary search tree: basically you need to cross the t's and dot the i's on the lab and add a Transaction manager. The code can be more elegant, and you must document it better, and test it extensively. Make sure the testing tests atomicity and rollback. 
-
-Make sure that you have read-committed isolation. The code already does this by default, but we need to keep track of the transactions. To do this you will need to keep a transaction mamager that keeps track of both read and write transactions explicitly, along with the version of the tree made available to that transaction. This manager must be persisted on a database close, but in milestone 2 we shall skip writing out a transaction manager log (a write ahead log) from which transactions can be reconstructed if desired.
+My suggestion is to first implement the database as an unbalanced binary search tree: basically you need to cross the t's and dot the i's on the lab and add a Transaction manager. The code can be more elegant, and you must document it better, and test it extensively. 
 
 Then implement the red-black tree. There will be much more writing to disk due to re-balancing on updates creating new branches upwards to the root. You do not need to implement deletion (deletion is complex!). 
 
+In the next part, after milestone 2, you will implement a transaction manager!
 
 Sources:
 
