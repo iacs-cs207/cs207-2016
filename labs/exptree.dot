@@ -1,0 +1,20 @@
+
+    digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    "c715dfda-bd52-4cbe-8c84-84af5571b956" -> "0d9eca54-e927-4a8b-b6a1-828fab8a1ee9"[side=left];
+"0d9eca54-e927-4a8b-b6a1-828fab8a1ee9" -> "d30ae696-f924-466a-a5c2-a1f1a6b829f1"[side=left];
+"0d9eca54-e927-4a8b-b6a1-828fab8a1ee9" -> "f7cec1cc-020b-448b-ac5f-312790c01356"[side=right];
+"c715dfda-bd52-4cbe-8c84-84af5571b956" -> "75ec348f-02a7-4051-a107-665a1d1db145"[side=right];
+"75ec348f-02a7-4051-a107-665a1d1db145" -> "fc756598-e9f0-4301-8adf-8a4dcbaa0a3b"[side=left];
+"75ec348f-02a7-4051-a107-665a1d1db145" -> "0a0f1f83-4575-47b0-9e45-3693e6c871d2"[side=right];
+"f7cec1cc-020b-448b-ac5f-312790c01356"[label="3"]
+"fc756598-e9f0-4301-8adf-8a4dcbaa0a3b"[label="23"]
+"0a0f1f83-4575-47b0-9e45-3693e6c871d2"[label="3"]
+"0d9eca54-e927-4a8b-b6a1-828fab8a1ee9"[label="*"]
+"c715dfda-bd52-4cbe-8c84-84af5571b956"[label="+"]
+"d30ae696-f924-466a-a5c2-a1f1a6b829f1"[label="2"]
+"75ec348f-02a7-4051-a107-665a1d1db145"[label="*"]}
