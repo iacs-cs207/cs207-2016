@@ -231,22 +231,22 @@ def data_received(self, data):
 
 You can choose between the below two electives. The extra-credit is only if you want more points and are having too much fun..
 
-ELECTIVE 1:
+EXTRA CREDIT 1:
 
 But since python has the GIL, this will block any other IO from happening. Thus let us run all distance calculations in processes.
 Thus, let each thread in the server have access to a co-processor pool (see http://chimera.labs.oreilly.com/books/1230000000393/ch12.html#_discussion_204) and note you will have to hand the two time series (one the incoming and two the one from the db) over to a process in this pool.
 
-ELECTIVE 1: EXTRA CREDIT
+EXTRA CREDIT 1: even more credit
 
 Now, take your code to insert a time series and to create a vantage point and encapsulate these into functions which can be run in threads as well. Each new time series insertion should trigger a process that computes its distance to all vantage points. This should happen in the process pool. (Similarly each new vantage point insertion should trigger computing distances to all time series and these two operations should not happen simultaneously. We will, for simplicity in this project, assume that only the initial vantage points are allowed.)
 
 OR
 
-ELECTIVE 2:
+EXTRA CREDIT 2:
 
 Extend the interface in the client program to embed a lispy (stupidlang can be used as a base for this) query language which allows for similarity queries on our database.
 
-ELECTIVE 2: EXTRA CREDIT
+EXTRA CREDIT 2: even more credit
 
 Extend your query language to allow filtering queries on postgres metadata (test metadata will be provided in `project10.html`)
 We wont combine these as such queries will be slow in the the binary search tree database. But its worth it for you to think of how you might combine them in one database.
