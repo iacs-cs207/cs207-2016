@@ -1,0 +1,16 @@
+
+    digraph G {
+    nodesep=0.9;
+    ranksep=0.6;
+    margin=0.1;
+    rankdir=LR;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    "1" -> "6";
+"1" -> "2";
+"2" -> "3";
+"2" -> "5";
+"3" -> "4";
+"4" -> "5";
+
+}

@@ -1,0 +1,21 @@
+
+    digraph G {
+    nodesep=0.9;
+    ranksep=0.6;
+    margin=0.1;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    "1" -> "2";
+"2" -> "1"[dir=none, style=dashed];
+"2" -> "3"[dir=none, style=dashed];
+"2" -> "5"[dir=none, style=dashed];
+"2" -> "3";
+"3" -> "4"[dir=none, style=dashed];
+"3" -> "4";
+"4" -> "5"[dir=none, style=dashed];
+"4" -> "5";
+"5" -> "1"[dir=none, style=dashed];
+"1" -> "6";
+"6" -> "1"[dir=none, style=dashed];
+
+}

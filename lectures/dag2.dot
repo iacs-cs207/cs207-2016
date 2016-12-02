@@ -1,0 +1,26 @@
+
+    digraph G {
+    nodesep=0.9;
+    ranksep=0.6;
+    margin=0.1;
+    rankdir=LR;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    "f" -> "j";
+"j" -> "m";
+"e" -> "f";
+"d" -> "f";
+"i" -> "j";
+"k" -> "l";
+"c" -> "d";
+"c" -> "e";
+"a" -> "b";
+"a" -> "c";
+"a" -> "h";
+"a" -> "i";
+"h" -> "i";
+"b" -> "e";
+"g" -> "k";
+"g" -> "m";
+
+}
